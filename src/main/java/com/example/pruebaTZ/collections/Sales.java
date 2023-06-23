@@ -11,6 +11,7 @@ import java.util.List;
 public class Sales {
     @Id
     private String id;
+    private String date;
     private String name;
     private String idType;
     private String idNumber;

@@ -5,7 +5,6 @@ import com.example.pruebaTZ.mapper.SalesMapper;
 import com.example.pruebaTZ.repositories.ISalesReository;
 import com.example.pruebaTZ.useCases.sales.interfaces.UpdateSale;
 import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Mono;
 
